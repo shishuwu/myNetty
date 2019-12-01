@@ -1,4 +1,4 @@
-package com.shishuwu.client;
+package com.shishuwu.sample1.client;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;

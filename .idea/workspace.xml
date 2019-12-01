@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a27ace81-7195-4c77-815b-b626a08c5b90" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,12 +59,12 @@
       </method>
     </configuration>
     <configuration name="MyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shishuwu.client.MyClient" />
+      <option name="MAIN_CLASS_NAME" value="com.shishuwu.sample1.client.MyClient" />
       <module name="myNetty" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shishuwu.client.*" />
+          <option name="PATTERN" value="com.shishuwu.sample1.client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +73,12 @@
       </method>
     </configuration>
     <configuration name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shishuwu.server.MyServer" />
+      <option name="MAIN_CLASS_NAME" value="com.shishuwu.sample1.client.server.MyServer" />
       <module name="myNetty" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shishuwu.server.*" />
+          <option name="PATTERN" value="com.shishuwu.sample1.client.server.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

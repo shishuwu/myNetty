@@ -1,4 +1,4 @@
-package com.shishuwu.client;
+package com.shishuwu.sample1.client;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;
