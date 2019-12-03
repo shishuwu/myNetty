@@ -1,0 +1,10 @@
+
+\squid:S2259 "@A "NullPointerException" could be thrown; "in" is nullable here.(€¶º‡ýÿÿÿÿ
+Xsquid:S2259%"AA "NullPointerException" could be thrown; "out" is nullable here.(„¸Ç§
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148""#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148'"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148,"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(Øò¢8
+Fsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

@@ -1,0 +1,13 @@
+
+>squid:S2189!""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+?squid:S16043"(Make this anonymous inner class a lambda(ÉãÃ®
+?squid:S11488"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+,squid:S1700"Rename field "server"(îè®Ï
+nsquid:S3008"WRename this field "DEFAULT_PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ôÒº
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ïª®
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(åÒ¨è
+O
+squid:S106("9Replace this use of System.out or System.err by a logger.(Ğ¼”ß
+Fsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+§%squid:RedundantThrowsDeclarationCheck0"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú7

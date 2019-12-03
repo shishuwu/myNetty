@@ -1,0 +1,7 @@
+
+>squid:S2189&""Add an end condition to this loop.(ƒÇŞÒøÿÿÿÿ
+?squid:S1148)"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Ssquid:S2589&"7Remove this expression which always evaluates to "true"(ƒÇŞÒøÿÿÿÿ
+Nsquid:S1135("2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+ssquid:S3008	"WRename this field "DEFAULT_PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÍçñùÿÿÿÿ
+nsquid:S3008"WRename this field "DEFAULT_HOST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±šÒ
